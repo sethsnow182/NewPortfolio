@@ -61,7 +61,7 @@
     .menu_branding .portrait {
       width: 250px;
       height: 250px;
-      background-image:url(../img/face.jpg);
+      background:url(../img/face.jpg);
       border-radius: 50%;
       border: solid 3px #eece1a; }
   .menu .nav_item {
