@@ -1,0 +1,19 @@
+2019-11-07 20:00:20: -- Analysis Started by On File Change, After Delay
+2019-11-07 20:00:20: Changes: 13, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 945
+2019-11-07 20:00:20: Left to Right: Copy File: 13 
+2019-11-07 20:00:21: == Sync Started by On File Change, After Delay
+2019-11-07 20:00:21: Create Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/objects/51'
+2019-11-07 20:00:21: Create Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/objects/7d'
+2019-11-07 20:00:21: Create Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/objects/ca'
+2019-11-07 20:00:21: Create Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/objects/fa'
+2019-11-07 20:00:22: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/.git/.COMMIT_EDITMSG.swp' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/.COMMIT_EDITMSG.swp' (12,288)
+2019-11-07 20:00:22: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/.git/COMMIT_EDITMSG' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/COMMIT_EDITMSG' (3,682)
+2019-11-07 20:00:24: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/.git/index' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/index' (6,481)
+2019-11-07 20:00:25: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/.git/objects/51/c8a8e9d184e050cbf4a3df7b2374ab83bdf591' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/objects/51/c8a8e9d184e050cbf4a3df7b2374ab83bdf591' (163)
+2019-11-07 20:00:26: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/.git/objects/68/909e1de7ba459a0483f46af45856664ded69d8' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/objects/68/909e1de7ba459a0483f46af45856664ded69d8' (52)
+2019-11-07 20:00:26: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/.git/objects/7d/8f7252325ccd9dd5d4bca17ac742f62b788dd5' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/objects/7d/8f7252325ccd9dd5d4bca17ac742f62b788dd5' (387)
+2019-11-07 20:00:27: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/.git/objects/88/42bf9d60bb7337a6271f2c96b8d49c416a1568' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/objects/88/42bf9d60bb7337a6271f2c96b8d49c416a1568' (53)
+2019-11-07 20:00:28: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/.git/objects/ca/f5c3f8003ecf1760def6bb872fb97169055c26' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/objects/ca/f5c3f8003ecf1760def6bb872fb97169055c26' (262)
+2019-11-07 20:00:29: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/.git/objects/fa/9ba9c07c604f56301236943037d7a9bd834565' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/objects/fa/9ba9c07c604f56301236943037d7a9bd834565' (1,154)
+2019-11-07 20:00:30: == Sync Complete. Time: 00:00:09, Speed: 16.6 KB/s, OK: 13, Errors: 0
+2019-11-07 20:00:30: 

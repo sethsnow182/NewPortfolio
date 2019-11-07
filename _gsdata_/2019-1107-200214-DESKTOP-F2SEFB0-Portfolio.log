@@ -1,0 +1,16 @@
+2019-11-07 20:02:17: -- Analysis Started by On File Change, After Delay
+2019-11-07 20:02:17: Changes: 10, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 953
+2019-11-07 20:02:17: Left to Right: Copy File: 9 Delete File: 1 
+2019-11-07 20:02:17: == Sync Started by On File Change, After Delay
+2019-11-07 20:02:18: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/.COMMIT_EDITMSG.swp'
+2019-11-07 20:02:18: Create Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/logs'
+2019-11-07 20:02:18: Create Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/logs/refs'
+2019-11-07 20:02:18: Create Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/logs/refs/heads'
+2019-11-07 20:02:18: Create Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/objects/8e'
+2019-11-07 20:02:19: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/.git/COMMIT_EDITMSG' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/COMMIT_EDITMSG' (3,681)
+2019-11-07 20:02:20: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/.git/logs/HEAD' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/logs/HEAD' (163)
+2019-11-07 20:02:21: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/.git/logs/refs/heads/master' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/logs/refs/heads/master' (163)
+2019-11-07 20:02:21: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/.git/objects/8e/7bfae308618af8b8e9233cfaf94e44e8034f4c' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/objects/8e/7bfae308618af8b8e9233cfaf94e44e8034f4c' (129)
+2019-11-07 20:02:22: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/.git/refs/heads/master' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/refs/heads/master' (41)
+2019-11-07 20:02:23: == Sync Complete. Time: 00:00:06, Speed: 22.4 KB/s, OK: 10, Errors: 0
+2019-11-07 20:02:23: 
