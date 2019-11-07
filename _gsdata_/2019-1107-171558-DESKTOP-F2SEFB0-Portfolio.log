@@ -1,0 +1,7 @@
+2019-11-07 17:16:01: -- Analysis Started by On File Change, After Delay
+2019-11-07 17:16:01: Changes: 1, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 793
+2019-11-07 17:16:01: Left to Right: Copy File: 1 
+2019-11-07 17:16:01: == Sync Started by On File Change, After Delay
+2019-11-07 17:16:03: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/about.html' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/about.html' (4,053)
+2019-11-07 17:16:04: == Sync Complete. Time: 00:00:03, Speed: 1.97 KB/s, OK: 1, Errors: 0
+2019-11-07 17:16:04: 

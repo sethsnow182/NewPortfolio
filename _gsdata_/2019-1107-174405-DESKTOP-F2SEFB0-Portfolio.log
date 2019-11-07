@@ -1,0 +1,9 @@
+2019-11-07 17:44:07: -- Analysis Started by On File Change, After Delay
+2019-11-07 17:44:08: Changes: 2, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 793
+2019-11-07 17:44:08: Left to Right: Copy File: 2 
+2019-11-07 17:44:08: == Sync Started by On File Change, After Delay
+2019-11-07 17:44:09: Cannot Browse while job is running, waiting to run, or in Unattanded mode
+2019-11-07 17:44:09: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/css/main.css' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/css/main.css' (7,808)
+2019-11-07 17:44:10: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/index.html' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/index.html' (2,591)
+2019-11-07 17:44:11: == Sync Complete. Time: 00:00:03, Speed: 5.26 KB/s, OK: 2, Errors: 0
+2019-11-07 17:44:12: 

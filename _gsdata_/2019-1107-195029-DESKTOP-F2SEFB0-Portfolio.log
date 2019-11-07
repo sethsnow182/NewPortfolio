@@ -1,0 +1,31 @@
+2019-11-07 19:50:32: -- Analysis Started by On File Change, After Delay
+2019-11-07 19:50:33: Changes: 25, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 818
+2019-11-07 19:50:33: Left to Right: Copy File: 25 
+2019-11-07 19:50:33: == Sync Started by On File Change, After Delay
+2019-11-07 19:50:33: Create Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git'
+2019-11-07 19:50:33: Create Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/hooks'
+2019-11-07 19:50:33: Create Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/info'
+2019-11-07 19:50:33: Create Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/objects'
+2019-11-07 19:50:33: Create Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/objects/info'
+2019-11-07 19:50:34: Create Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/objects/pack'
+2019-11-07 19:50:34: Create Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/refs'
+2019-11-07 19:50:34: Create Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/refs/heads'
+2019-11-07 19:50:34: Create Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/refs/tags'
+2019-11-07 19:50:35: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/.git/config' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/config' (130)
+2019-11-07 19:50:35: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/.git/description' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/description' (73)
+2019-11-07 19:50:36: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/.git/HEAD' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/HEAD' (23)
+2019-11-07 19:50:37: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/.git/hooks/applypatch-msg.sample' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/hooks/applypatch-msg.sample' (478)
+2019-11-07 19:50:38: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/.git/hooks/commit-msg.sample' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/hooks/commit-msg.sample' (896)
+2019-11-07 19:50:38: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/.git/hooks/fsmonitor-watchman.sample' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/hooks/fsmonitor-watchman.sample' (3,327)
+2019-11-07 19:50:39: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/.git/hooks/post-update.sample' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/hooks/post-update.sample' (189)
+2019-11-07 19:50:40: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/.git/hooks/pre-applypatch.sample' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/hooks/pre-applypatch.sample' (424)
+2019-11-07 19:50:41: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/.git/hooks/pre-commit.sample' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/hooks/pre-commit.sample' (1,638)
+2019-11-07 19:50:42: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/.git/hooks/pre-merge-commit.sample' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/hooks/pre-merge-commit.sample' (416)
+2019-11-07 19:50:42: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/.git/hooks/pre-push.sample' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/hooks/pre-push.sample' (1,348)
+2019-11-07 19:50:43: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/.git/hooks/pre-rebase.sample' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/hooks/pre-rebase.sample' (4,898)
+2019-11-07 19:50:44: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/.git/hooks/pre-receive.sample' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/hooks/pre-receive.sample' (544)
+2019-11-07 19:50:45: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/.git/hooks/prepare-commit-msg.sample' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/hooks/prepare-commit-msg.sample' (1,492)
+2019-11-07 19:50:46: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/.git/hooks/update.sample' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/hooks/update.sample' (3,610)
+2019-11-07 19:50:46: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/.git/info/exclude' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.git/info/exclude' (240)
+2019-11-07 19:50:48: == Sync Complete. Time: 00:00:15, Speed: 16.6 KB/s, OK: 25, Errors: 0
+2019-11-07 19:50:48: 

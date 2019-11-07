@@ -1,0 +1,109 @@
+2019-11-07 16:43:31: == Sync Started by User Command
+2019-11-07 16:43:34: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.vscode/settings.json'
+2019-11-07 16:43:34: Delete Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.vscode'
+2019-11-07 16:43:35: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/css/style.css'
+2019-11-07 16:43:35: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/1.png'
+2019-11-07 16:43:35: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/1_1.png'
+2019-11-07 16:43:36: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/2.jpg'
+2019-11-07 16:43:36: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/2.png'
+2019-11-07 16:43:36: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/2_1.png'
+2019-11-07 16:43:36: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/3.png'
+2019-11-07 16:43:37: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/3_1.png'
+2019-11-07 16:43:37: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/4.png'
+2019-11-07 16:43:37: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/4_1.png'
+2019-11-07 16:43:37: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/5.jpg'
+2019-11-07 16:43:37: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/5.png'
+2019-11-07 16:43:37: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/6.png'
+2019-11-07 16:43:38: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/7.png'
+2019-11-07 16:43:38: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/7.png.jpg'
+2019-11-07 16:43:38: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/8.png'
+2019-11-07 16:43:38: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Accredited.png'
+2019-11-07 16:43:38: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/after1.png'
+2019-11-07 16:43:38: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/after2.png'
+2019-11-07 16:43:39: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/arrow_left.png'
+2019-11-07 16:43:39: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/arrow_right.png'
+2019-11-07 16:43:39: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Blog_1.jpg'
+2019-11-07 16:43:39: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Blog_2.jpg'
+2019-11-07 16:43:40: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Blog_3.jpg'
+2019-11-07 16:43:40: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Blog_4.jpg'
+2019-11-07 16:43:40: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/bulb.jpg'
+2019-11-07 16:43:40: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/CaseImage.jpg'
+2019-11-07 16:43:40: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Curve.png'
+2019-11-07 16:43:40: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Down Icon copy 2.png'
+2019-11-07 16:43:41: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Down Icon copy 3.png'
+2019-11-07 16:43:41: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Down Icon copy.png'
+2019-11-07 16:43:41: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Down.png'
+2019-11-07 16:43:41: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Face_1.png'
+2019-11-07 16:43:42: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Face_2.png'
+2019-11-07 16:43:42: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Face_3.png'
+2019-11-07 16:43:42: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Face_4.png'
+2019-11-07 16:43:42: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Face_5.png'
+2019-11-07 16:43:42: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/facebook.png'
+2019-11-07 16:43:42: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/facebook_hover.png'
+2019-11-07 16:43:43: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Foreground.jpg'
+2019-11-07 16:43:43: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/google plus.png'
+2019-11-07 16:43:43: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/google plus_hover.png'
+2019-11-07 16:43:43: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/left.png'
+2019-11-07 16:43:44: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/left1.png'
+2019-11-07 16:43:44: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/linkedin.png'
+2019-11-07 16:43:44: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/linkedin_hover.png'
+2019-11-07 16:43:44: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Logo.png'
+2019-11-07 16:43:44: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Monitor.png'
+2019-11-07 16:43:44: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Put Your Image.jpg'
+2019-11-07 16:43:45: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Put Your Image2.jpg'
+2019-11-07 16:43:45: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/PutYourImage3.jpg'
+2019-11-07 16:43:45: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Rectangle 13 copy 4.png'
+2019-11-07 16:43:45: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Rectangle_important.jpg'
+2019-11-07 16:43:45: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/right.png'
+2019-11-07 16:43:46: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/right1.png'
+2019-11-07 16:43:46: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Robo-min.png'
+2019-11-07 16:43:46: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Robo._hover.png'
+2019-11-07 16:43:46: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Robo.png'
+2019-11-07 16:43:46: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Robo1.png'
+2019-11-07 16:43:46: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Rounded Rectangle 3 copy 5.png'
+2019-11-07 16:43:47: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/rss.png'
+2019-11-07 16:43:47: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/rss_hover.png'
+2019-11-07 16:43:47: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/services.png'
+2019-11-07 16:43:47: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/skype.png'
+2019-11-07 16:43:47: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/skype_hover.png'
+2019-11-07 16:43:47: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/stat2.png'
+2019-11-07 16:43:48: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/stat3.png'
+2019-11-07 16:43:48: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/stat4.png'
+2019-11-07 16:43:48: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/stat5.png'
+2019-11-07 16:43:48: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/stat_1.png'
+2019-11-07 16:43:48: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/status.jpg'
+2019-11-07 16:43:48: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Team.jpg'
+2019-11-07 16:43:49: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/tumblr.png'
+2019-11-07 16:43:49: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/tumblr_hover.png'
+2019-11-07 16:43:49: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/twitter.png'
+2019-11-07 16:43:49: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/twitter_hover.png'
+2019-11-07 16:43:49: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/vimeo.png'
+2019-11-07 16:43:49: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/vimeo_hover.png'
+2019-11-07 16:43:50: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/java/jquery3.4.1.min.js'
+2019-11-07 16:43:50: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/java/script.js'
+2019-11-07 16:43:50: Delete Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/www/java'
+2019-11-07 16:43:50: Create Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/projects'
+2019-11-07 16:43:50: Create Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/www/js'
+2019-11-07 16:43:51: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/about.html' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/about.html' (4,049)
+2019-11-07 16:43:52: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/contact.html' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/contact.html' (2,409)
+2019-11-07 16:43:53: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/css/main.css' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/css/main.css' (7,391)
+2019-11-07 16:43:55: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/img/background.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/background.jpg' (204,479)
+2019-11-07 16:43:57: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/img/Cool Sky.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Cool Sky.jpg' (309,678)
+2019-11-07 16:43:58: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/img/face.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/face.jpg' (34,203)
+2019-11-07 16:43:59: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/img/face_small.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/face_small.jpg' (25,214)
+2019-11-07 16:43:59: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/img/favicon-16x16.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/favicon-16x16.png' (652)
+2019-11-07 16:44:00: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/img/favicon-32x32.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/favicon-32x32.png' (1,727)
+2019-11-07 16:44:01: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/img/laptop.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/laptop.jpg' (50,131)
+2019-11-07 16:44:02: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/img/portrait.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/portrait.jpg' (53,358)
+2019-11-07 16:44:03: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/img/portrait_small.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/portrait_small.jpg' (38,423)
+2019-11-07 16:44:05: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/img/projects/project1.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/projects/project1.jpg' (145,548)
+2019-11-07 16:44:07: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/img/projects/project2.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/projects/project2.jpg' (149,820)
+2019-11-07 16:44:08: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/img/projects/project3.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/projects/project3.jpg' (161,624)
+2019-11-07 16:44:10: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/img/projects/project4.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/projects/project4.jpg' (136,123)
+2019-11-07 16:44:12: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/img/projects/project5.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/projects/project5.jpg' (99,908)
+2019-11-07 16:44:13: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/img/site.webmanifest' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/site.webmanifest' (263)
+2019-11-07 16:44:14: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/index.html' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/index.html' (2,591)
+2019-11-07 16:44:14: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/js/main.js' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/js/main.js' (1,607)
+2019-11-07 16:44:15: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/work.html' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/work.html' (4,259)
+2019-11-07 16:44:17: == Sync Complete. Time: 00:00:47, Speed: 187 KB/s, OK: 792, Errors: 0
+2019-11-07 16:44:17: 

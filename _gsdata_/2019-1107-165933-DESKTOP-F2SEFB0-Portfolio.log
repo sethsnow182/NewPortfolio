@@ -1,0 +1,51 @@
+2019-11-07 16:59:34: On File Change Monitoring started on file:///~Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula
+2019-11-07 16:59:34: File Monitoring not available on: ftp://ftp.cluster021.hosting.ovh.net:21/www
+2019-11-07 16:59:34: Remote File System with No monitoring, disconnect
+2019-11-07 16:59:35: -- Analysis Started by On File Change First Full Analyze Upon File Monitoring Start
+2019-11-07 16:59:38: /about.html: R:TimeSize<>; Warning: Older file to replace Newer file
+2019-11-07 16:59:38: /contact.html: R:TimeSize<>; Warning: Older file to replace Newer file
+2019-11-07 16:59:38: /css/main.css: R:TimeSize<>; Warning: Older file to replace Newer file
+2019-11-07 16:59:38: /img/background.jpg: R:TimeSize<>; Warning: Older file to replace Newer file
+2019-11-07 16:59:38: /img/Cool Sky.jpg: R:TimeSize<>; Warning: Older file to replace Newer file
+2019-11-07 16:59:38: /img/face.jpg: R:TimeSize<>; Warning: Older file to replace Newer file
+2019-11-07 16:59:38: /img/face_small.jpg: R:TimeSize<>; Warning: Older file to replace Newer file
+2019-11-07 16:59:38: /img/favicon-16x16.png: R:TimeSize<>; Warning: Older file to replace Newer file
+2019-11-07 16:59:38: /img/favicon-32x32.png: R:TimeSize<>; Warning: Older file to replace Newer file
+2019-11-07 16:59:38: /img/laptop.jpg: R:TimeSize<>; Warning: Older file to replace Newer file
+2019-11-07 16:59:38: /img/portrait.jpg: R:TimeSize<>; Warning: Older file to replace Newer file
+2019-11-07 16:59:38: /img/portrait_small.jpg: R:TimeSize<>; Warning: Older file to replace Newer file
+2019-11-07 16:59:38: /img/projects/project1.jpg: R:TimeSize<>; Warning: Older file to replace Newer file
+2019-11-07 16:59:38: /img/projects/project2.jpg: R:TimeSize<>; Warning: Older file to replace Newer file
+2019-11-07 16:59:38: /img/projects/project3.jpg: R:TimeSize<>; Warning: Older file to replace Newer file
+2019-11-07 16:59:38: /img/projects/project4.jpg: R:TimeSize<>; Warning: Older file to replace Newer file
+2019-11-07 16:59:38: /img/projects/project5.jpg: R:TimeSize<>; Warning: Older file to replace Newer file
+2019-11-07 16:59:38: /img/site.webmanifest: R:TimeSize<>; Warning: Older file to replace Newer file
+2019-11-07 16:59:38: /index.html: R:TimeSize<>; Warning: Older file to replace Newer file
+2019-11-07 16:59:38: /js/main.js: R:TimeSize<>; Warning: Older file to replace Newer file
+2019-11-07 16:59:38: /work.html: R:TimeSize<>; Warning: Older file to replace Newer file
+2019-11-07 16:59:38: Changes: 21, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 793
+2019-11-07 16:59:38: Left to Right: Copy File: 21 
+2019-11-07 16:59:38: == Sync Started by On File Change First Full Analyze Upon File Monitoring Start
+2019-11-07 16:59:39: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/about.html' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/about.html' (4,049)
+2019-11-07 16:59:40: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/contact.html' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/contact.html' (2,409)
+2019-11-07 16:59:41: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/css/main.css' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/css/main.css' (7,383)
+2019-11-07 16:59:42: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/img/background.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/background.jpg' (204,479)
+2019-11-07 16:59:44: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/img/Cool Sky.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Cool Sky.jpg' (309,678)
+2019-11-07 16:59:45: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/img/face.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/face.jpg' (34,203)
+2019-11-07 16:59:45: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/img/face_small.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/face_small.jpg' (25,214)
+2019-11-07 16:59:46: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/img/favicon-16x16.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/favicon-16x16.png' (652)
+2019-11-07 16:59:47: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/img/favicon-32x32.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/favicon-32x32.png' (1,727)
+2019-11-07 16:59:48: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/img/laptop.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/laptop.jpg' (102,739)
+2019-11-07 16:59:49: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/img/portrait.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/portrait.jpg' (53,358)
+2019-11-07 16:59:50: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/img/portrait_small.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/portrait_small.jpg' (38,423)
+2019-11-07 16:59:51: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/img/projects/project1.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/projects/project1.jpg' (145,548)
+2019-11-07 16:59:52: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/img/projects/project2.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/projects/project2.jpg' (149,820)
+2019-11-07 16:59:53: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/img/projects/project3.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/projects/project3.jpg' (161,624)
+2019-11-07 16:59:54: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/img/projects/project4.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/projects/project4.jpg' (136,123)
+2019-11-07 16:59:55: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/img/projects/project5.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/projects/project5.jpg' (99,908)
+2019-11-07 16:59:56: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/img/site.webmanifest' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/site.webmanifest' (263)
+2019-11-07 16:59:56: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/index.html' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/index.html' (2,591)
+2019-11-07 16:59:57: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/js/main.js' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/js/main.js' (1,607)
+2019-11-07 16:59:58: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Portfolio_AdrianKula/work.html' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/work.html' (4,259)
+2019-11-07 16:59:59: == Sync Complete. Time: 00:00:21, Speed: 74.7 KB/s, OK: 21, Errors: 0
+2019-11-07 17:00:00: 
