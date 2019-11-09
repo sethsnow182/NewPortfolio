@@ -4,7 +4,7 @@
   "description": "This is my first portfolio",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d www"
   },
   "repository": {
     "type": "git",
