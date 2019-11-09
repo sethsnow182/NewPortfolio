@@ -61,7 +61,7 @@
     .menu_branding .portrait {
       width: 250px;
       height: 250px;
-      background:url(../img/face.jpg);
+      background-image:url(../img/face.jpg);
       border-radius: 50%;
       border: solid 3px #eece1a; }
   .menu .nav_item {
@@ -228,17 +228,54 @@ main {
   #numbers p {
     margin: 0; }
 
+  .item {
+    position: relative;
+  }
+
 .projects {
   display: grid;
   grid-gap: 0.7rem;
   grid-template-columns: repeat(3, 1fr); }
+
+  .projects .item .middle {
+  transition: .5s ease;
+  opacity: 1;
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+  }
+
+    .projects .middle{
+      font-size: 2rem;
+      font-weight: 500;
+      display:none;
+      transition: all 0.5s ease-out;
+  }
+
   .projects img {
     width: 100%;
-    border: 3px solid #fff; }
-    .projects img:hover {
+    border: 3px solid #fff;
+    transition: all 0.5s ease-out; }
+
+    .projects .container img {
+      transition: all 0.5s ease-out;
+    }
+
+    .projects .container:hover img {
       opacity: 0.5;
       border-color: #eece1a;
-      transition: all 0.5s ease-out; }
+      transition: all 0.5s ease-out;
+      cursor: default;
+    }
+
+      .projects .container:hover > .middle{
+      transition: all 0.5s ease-out;
+      display: initial;
+  }
+
 
 .boxes {
   display: flex;
@@ -357,8 +394,15 @@ main {
     font-size: 4rem; }
   .boxes div {
     font-size: 1.5rem; }
-  .text_secondary {
+  #contact .text_secondary {
     display: block; }
   .menu_btn {
     right: 20px;
-    top: 20px; } }
+    top: 20px; }
+  main#work h1{
+    font-size: 4rem;
+  }
+  main#work p {
+  font-size: 1rem;
+  }
+}
